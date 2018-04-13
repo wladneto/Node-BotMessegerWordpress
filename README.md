@@ -1,4 +1,8 @@
 # Node-BotMessegerWordpress
-This project shows one simple bot on messeger consulting posts and categories in wordpress blog (in this case www.nos2demochilao.com.br)
+This project shows a messeger bot that browses posts and categories in a wordpress blog.
 
-;)
+Official version available at: https://m.me/nos2demochilao
+
+#enjoy;)
+
+This official version in 
